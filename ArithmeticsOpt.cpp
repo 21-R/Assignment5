@@ -9,4 +9,6 @@ int mul(int a,int b)
 int power(int a,int b)
   return power(a,b)
   
-
+int rem(int a, int b)
+  return a%b;
+// forked by rayhana 
